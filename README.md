@@ -31,6 +31,17 @@ This project is a **Question Answering (QA) bot** built using **Gradio** for the
 - **PyPDF2**: For extracting text from uploaded PDFs.
 - **Docker**: For containerizing the application for easy deployment.
 
+RAG_QA-Bot.zip/
+│
+├── app.py
+├── Dockerfile
+├── requirements.txt
+├── README.md
+├── colab_notebook.ipynb
+└── sample.pdf Image<img width="941" alt="Screenshot 2024-10-13 143859" src="https://github.com/user-attachments/assets/f9767af3-e412-4a3c-910a-f1aa4673d56f">
+
+
+
 
 
 

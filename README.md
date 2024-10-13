@@ -38,7 +38,8 @@ RAG_QA-Bot.zip/
 ├── requirements.txt
 ├── README.md
 ├── colab_notebook.ipynb
-└── sample.pdf Image<img width="941" alt="Screenshot 2024-10-13 143859" src="https://github.com/user-attachments/assets/f9767af3-e412-4a3c-910a-f1aa4673d56f">
+└── sample.pdf Image
+<img width="941" alt="Screenshot 2024-10-13 143859" src="https://github.com/user-attachments/assets/f9767af3-e412-4a3c-910a-f1aa4673d56f">
 
 
 

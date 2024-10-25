@@ -16,9 +16,8 @@ This project is a **Question Answering (QA) bot** built using **Gradio** for the
 ---
 
 ## **URLs**
-
-- **Local URL**: [http://127.0.0.1:7860](http://127.0.0.1:7860)  
-- **Public Gradio Link**: [https://e18ce42117606df9dd.gradio.live](https://e18ce42117606df9dd.gradio.live)
+  
+- **Public Gradio Link**: [https://e18ce42117606df9dd.gradio.live]([https://e18ce42117606df9dd.gradio.live](https://huggingface.co/spaces/Satyam0077/rag-qa-bot)
 
 ---
 
